@@ -29,4 +29,8 @@ This program does the following things:
 
 ![image](https://user-images.githubusercontent.com/40052830/153807005-25b48fbd-9f5f-4456-983c-6126998b56e9.png)
 
+To check the app, here's the link: https://share.streamlit.io/paragpallavsingh/stocks_of_the_day/main/stocks_of_the_day.py
+
+Here is the link where you can ge the Moneycontrol "Hot Stocks" blog for the day: https://www.moneycontrol.com/news/business/stocks/
+
 We are looking to add more exciting features to it. Hoping for the best🙌🏼!
