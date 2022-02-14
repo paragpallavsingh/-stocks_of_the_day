@@ -10,6 +10,7 @@ stocks_soup = bs(stocks_page_response.content,"html.parser")
 
 hot_stocks_url = ""
 date = ""
+
 for link in stocks_soup.find_all('a'):
     text = link.text
     substring = "Hot Stocks"
